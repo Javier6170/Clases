@@ -1,0 +1,1 @@
+{"py/object": "Panaderia_Vegana_Sin_Package.Dominio.producto.Producto", "nombre": "Pan de calabaza", "precio": 130000, "ingredientes": "arina,semillas de calabaza, especies,toppings de colores", "id": {"py/object": "uuid.UUID", "hex": "e82d771143834784b0f56c6a78358ed0"}}

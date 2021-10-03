@@ -1,0 +1,1 @@
+{"py/object": "Panaderia_Vegana_Sin_Package.Dominio.producto.Producto", "nombre": "Pan violet", "precio": 100000, "ingredientes": "zanahorias moradas, naranjas, arina, semillas de girasol", "id": {"py/object": "uuid.UUID", "hex": "a389645c0ce14df5bed2ce7e5c871877"}}

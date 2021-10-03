@@ -1,0 +1,1 @@
+{"py/object": "Panaderia_Vegana_Sin_Package.Dominio.producto.Producto", "nombre": "Pan de garbanzo", "precio": 100000, "ingredientes": "arina de garbanzo,semilla de sesamo natural y espinacas", "id": {"py/object": "uuid.UUID", "hex": "6b3793f115ae45d3ab58c6a267b21442"}}

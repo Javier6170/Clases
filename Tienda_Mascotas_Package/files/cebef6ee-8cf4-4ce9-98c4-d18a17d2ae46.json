@@ -1,0 +1,1 @@
+{"py/object": "Tienda_Mascotas_Package.Dominio.venta.Venta", "ventas": [], "mascota": "", "comprador": {"py/object": "Tienda_Mascotas_Package.Dominio.comprador.Comprador", "nombre": "javier", "apellido": "Rodriguez Marulanda", "id": "465465"}, "id": {"py/object": "uuid.UUID", "hex": "cebef6ee8cf44ce998c4d18a17d2ae46"}}
