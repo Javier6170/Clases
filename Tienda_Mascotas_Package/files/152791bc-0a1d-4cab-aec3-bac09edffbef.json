@@ -1,0 +1,1 @@
+{"py/object": "Tienda_Mascotas_Package.Dominio.gato.Gato", "nombre": "Pelusa", "apellido": "Rodriguez", "id": {"py/object": "uuid.UUID", "hex": "152791bc0a1d4cabaec3bac09edffbef"}, "documento": "123456", "raza": "mixta", "color": "cafe", "numeroHermanos": "20"}
